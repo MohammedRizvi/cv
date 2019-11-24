@@ -1,0 +1,163 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #d9eeec;
+  color: #40514E;
+}
+h1{
+  margin-top: 0;
+  font-size: 330%;
+  margin: 0 auto 0 auto ;
+  color: #396362;
+}
+
+
+h3{
+  color: #11999E;
+}
+
+p{
+line-height: 2;
+
+}
+
+
+hr {
+  border-color: #cccccc;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 20px;
+}
+
+
+.Top-container{
+    background-color: #36b5b0;
+    padding-top: 100px;
+font-family: "Sacramento", serif;
+    font-size: 29px;
+}
+
+.first-cloud{
+
+margin-left: 300px;
+position: absolute;
+right: 285px;
+top: 80px;
+
+
+
+}
+
+.second-cloud{
+  position: absolute;
+  right: 970px;
+  bottom: 500px;
+}
+
+.pro{
+  font-weight: bold;
+
+}
+
+.prog{
+  position: absolute;
+  top: 131px;
+  right: 505px;
+  font-size: 2.3rem;
+  font-family: "Montserrat", sans-serif;
+  color: #396362;
+
+}
+
+
+
+
+.footer-link{
+  color: #36b5b0;
+}
+
+
+.btn {
+	box-shadow: 0 1px 0 0 #29bf00;
+	background:linear-gradient(to bottom, #036b5b 5%, #2abd6e 100%);
+	background-color:#036b5b;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #2abd6e 5%, #036b5b 100%);
+	background-color:#2abd6e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+.skills{
+  width: 60%;
+  margin: auto;
+  text-align: left;
+
+
+}
+
+.skill-row{
+margin: 80px auto 80px auto;
+
+}
+
+.aaa{
+  width: 30%;
+  float: left;
+  margin-right: 50px;
+}
+
+.bbb{
+  width: 30%;
+  float: right;
+  margin-right: 50px;
+}
+
+.bottom-container{
+  background-color: #396362;
+  padding-top: 100px;
+  font-family: "Montserrat", sans-serif;
+  padding: 50px 0 20px;
+
+}
+
+.contact{
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+
+
+a{
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
